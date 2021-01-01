@@ -1,8 +1,8 @@
 # arxivの学問領域の指定
-subject: 'cs'
+subject: 'econ'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        fraud: 3
+        accounting: 3
+        balance Sheet: 1
