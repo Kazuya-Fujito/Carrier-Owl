@@ -1,8 +1,13 @@
 # arxivの学問領域の指定
 subject: 'econ'
+subject: 'q-fin'
 
 # 検索キーワード
 keywords:
         fraud: 3
         accounting: 3
+        account: 2
+        income statement: 1
         balance Sheet: 1
+        financial: 1
+        
